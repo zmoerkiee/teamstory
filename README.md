@@ -20,7 +20,7 @@ First we create a **remote** copy (that means it's stored on Github.com) of a pr
 Now that we've forked the files to our Github account, we need to **clone** (aka copy) them so that we have a local version of the files on our computer (this means we can work on them while offline). Our clone will be linked to our fork which is linked to the original.
 
 
-## Open Bash
+### Open Bash
 1. Open a new command line window in git bash.
 
 2. Let's create a folder that will hold all of our code files. Bash is starting us at the root of our computer, but let's move into our Documents folder.
