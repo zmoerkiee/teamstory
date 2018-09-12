@@ -97,7 +97,7 @@ You'll see a plus and minus sign showing the before and after.
 Add Changes
 Tell Git what file you want to add.
 
-    git add collaborative-story
+    git add collaborative-story.txt
     
 **Pro tip** if you have multiple files and want to add them all, you'll type `git add .` The period means *all*.
 
