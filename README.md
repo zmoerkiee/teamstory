@@ -32,16 +32,7 @@ To navigate to another folder, we need to *change directories* or **cd**. Here a
 or
 
     cd My\ Documents/
-    
-
-Then create a new folder with **mkdir** - *make directory*. Type:
-
-    mkdir teamstory
-    
-Great! But we're still inside of the Documents folder, so let's go into teamstory:
-
-    cd teamstory
-    
+      
 
 ### Clone the Repo
 3. Tell Git to go to Github repository on the internet where we are storing our forked files and clone them to where we are right now inside of the teamstory folder. Each repo on github has an address for its location. You'll see it following the HTTP and SSH buttons near the top middle of the page. Click on HTTP, this is the address you'll use. 
